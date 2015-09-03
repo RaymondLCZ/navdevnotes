@@ -4,4 +4,5 @@
 
 
 ---
-**Step 1:**
+
+選取該Report，並點選Design，在功能列View中點選Request Page，即可開始。
